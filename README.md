@@ -35,6 +35,6 @@ The general requirements for option A & B.
   - Test application on at least two browsers and specify in README.md which version and browser it was.
   - To pass this lab, you have to fully complete an option.  
 
-# Player as been tested on browsers
+# Tested on browsers
   - Chrome 144.0.7559.133
   - MS Edge 144.0.3719.115
